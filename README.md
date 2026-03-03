@@ -23,40 +23,33 @@
 - Leaderboards
 - Game mechanics 
 ---
-<!--
-## 🚀 Projects
+## 💼 Available for Work
 
-### ⭐ Project Name
-Short description of what you built (e.g. shop system, inventory system, combat system, etc.)  
-👉 Repository link
+I am currently accepting short to mid term **Roblox development jobs** including:
 
-### ⭐ Project Name
-Short description  
-👉 Repository link
+- Game systems & mechanics 
+- Scripting custom features using Lua  
+- Bug fixes & performance optimization
+- Rewriting systems for more readability and scalability
+- I won't model anything or design UI
 
-*(Even small systems are totally fine — consistency matters more than size.)*
--->
+---
+
+## 💰 Payment & Rates
+
+- Pay in Robux
+- Amount depend on project complexity and scope  
+- Contact me via discord
+
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tobi_DEV5&show_icons=true&theme=tokyonight" />
 </p>
-
----
-
-## 🌱 Currently Learning
-
-- Advanced Lua patterns
-- Better code architecture
-- Performance optimization
-- Clean system design
-
----
 
 <p align="center">
   🎯 Goal: Build high-quality Roblox systems and grow as a developer
 </p>
 act: ...
--->
