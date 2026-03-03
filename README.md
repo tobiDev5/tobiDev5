@@ -43,13 +43,6 @@ I am currently accepting short to mid term **Roblox development jobs** including
 
 ---
 
-## 📊 GitHub Stats
-
 <p align="center">
-  ![tobiDev5's GitHub stats](https://github-readme-stats.vercel.app/api?username=tobiDev5&show_icons=true&theme=tokyonight)
+  🎯 Add me on discord: tobi_dev5
 </p>
-
-<p align="center">
-  🎯 Goal: Build high-quality Roblox systems and grow as a developer
-</p>
-act: ...
