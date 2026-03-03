@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Tobi</h1>
-<h3 align="center">Roblox Developer | Lua Scripter | Hireable</h3>
+<h3 align="center">Roblox Developer | Lua Scripter | Hireable | Discord: tobi_dev5</h3>
 
 <p align="center">
   🎮 Roblox Developer with 2 years of programming experience <br>
@@ -39,7 +39,7 @@ I am currently accepting short to mid term **Roblox development jobs** including
 
 - Pay in Robux
 - Amount depend on project complexity and scope  
-- Contact me via discord
+- Contact me via discord: tobi_dev5
 
 ---
 
