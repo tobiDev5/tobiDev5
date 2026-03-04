@@ -25,7 +25,7 @@
 ---
 ## 💼 Available for Work
 
-I am currently accepting short to mid term **Roblox development jobs** including:
+I am currently accepting **Roblox development jobs** including:
 
 - Game systems & mechanics 
 - Scripting custom features using Lua  
