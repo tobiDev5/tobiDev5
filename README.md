@@ -3,7 +3,7 @@
 
 <p align="center">
   🎮 Roblox Developer with 2 years of programming experience <br>
-  🧠 Working with Lua(Luau) for about 6 months <br>
+  🧠 Working with Lua(Luau) for about 1 year <br>
   🚀 Good at writing and maintaining efficient code 
 </p>
 
