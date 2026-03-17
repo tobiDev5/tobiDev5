@@ -40,6 +40,7 @@ I am currently accepting **Roblox development jobs** including:
 - Pay in Robux
 - Amount depend on project complexity and scope  
 - Contact me via discord: tobi_dev5
+- I am also availaibe to join your dev team for robux or percentage
 
 ---
 
